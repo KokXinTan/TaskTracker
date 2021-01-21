@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Hiking",
+      "day": "Oct 2020",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Mining",
+      "day": "Dec 2020",
+      "reminder": true
+    },
+    {
+      "text": "Appointment",
+      "day": "Friday 31st Dec 2021",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
